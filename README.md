@@ -4,6 +4,10 @@
 **Discord Server Nuker. Uses a bot with admin permissions to instantly destroy a server.**
 
 
+https://github.com/user-attachments/assets/223f014f-0062-43c9-a349-df48eabbde97
+
+
+
 Changeable Values:
 - Server Name
 - Server Icon
