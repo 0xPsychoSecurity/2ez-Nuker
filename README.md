@@ -1,6 +1,8 @@
 # 2ez-Nuker
+<img width="511" height="114" alt="ascii-art-text" src="https://github.com/user-attachments/assets/2e7bbfe9-8d07-4c1a-a150-60a2a9e23ab9" />
+
 **Discord Server Nuker. Uses a bot with admin permissions to instantly destroy a server.**
-<img width="1213" height="726" alt="image" src="https://github.com/user-attachments/assets/b14f59ec-0bf4-46df-a705-11844dbb6547" />
+
 
 Changeable Values:
 - Server Name
