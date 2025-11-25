@@ -14,3 +14,7 @@ Changeable Values:
 
 
 Must have a Discord Bot Token, and you have to invite the bot to the server with admin permissions, the program will generate a link to invite it to the server with whatever bot token you provide.
+
+
+
+This is for testing purposes only, do NOT use this code maliciously, also if you end up getting the source, youre free to have it, its crypted to prevent skids from messing with it.
