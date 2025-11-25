@@ -20,4 +20,4 @@ Must have a Discord Bot Token, and you have to invite the bot to the server with
 This is for testing purposes only, do NOT use this code maliciously, also if you end up getting the source, youre free to have it, its crypted to prevent skids from messing with it.
 
 
-This program WILL give you hits on av because of the crypting method, if you dont trust it, run inside of a VM.
+[This program WILL give you hits on av because of the crypting method, if you dont trust it, run inside of a VM.](https://www.virustotal.com/gui/file/d6b5dfe0d99055dfea6482497efc4f510e179d80d594acc62af03a77f8b9af24/detection)
